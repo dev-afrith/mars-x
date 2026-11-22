@@ -192,20 +192,20 @@ npm install
 npm run build
 npm run start -- -p 3005
 ```
-- **Live Application:** `http://localhost:3005`
+- **Live Application:** `https://mars-x-nasa.vercel.app/`
 
 ### 4. Direct View Deep-Links
 | View | Deep-Link URL |
 |---|---|
-| **Exploration Console** | `http://localhost:3005/?tab=dashboard` |
-| **Science Discovery** | `http://localhost:3005/?tab=discovery` |
-| **Terrain Intelligence** | `http://localhost:3005/?tab=terrain` |
-| **Marswalk Routing** | `http://localhost:3005/?tab=route` |
-| **Route Intelligence** | `http://localhost:3005/?tab=route&mode=intelligence&autoPlan=1` |
-| **Environmental Climatology** | `http://localhost:3005/?tab=environmental` |
-| **Dataset Catalogue** | `http://localhost:3005/?tab=catalogue` |
-| **Great-Circle Elevation Profile** | `http://localhost:3005/?tab=profile` |
-| **Planetary CRS & Provenance** | `http://localhost:3005/?tab=provenance` |
+| **Exploration Console** | `https://mars-x-nasa.vercel.app/?tab=dashboard` |
+| **Science Discovery** | `https://mars-x-nasa.vercel.app/?tab=discovery` |
+| **Terrain Intelligence** | `https://mars-x-nasa.vercel.app/?tab=terrain` |
+| **Marswalk Routing** | `https://mars-x-nasa.vercel.app/?tab=route` |
+| **Route Intelligence** | `https://mars-x-nasa.vercel.app/?tab=route&mode=intelligence&autoPlan=1` |
+| **Environmental Climatology** | `https://mars-x-nasa.vercel.app/?tab=environmental` |
+| **Dataset Catalogue** | `https://mars-x-nasa.vercel.app/?tab=catalogue` |
+| **Great-Circle Elevation Profile** | `https://mars-x-nasa.vercel.app/?tab=profile` |
+| **Planetary CRS & Provenance** | `https://mars-x-nasa.vercel.app/?tab=provenance` |
 
 ---
 
